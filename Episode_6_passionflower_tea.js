@@ -306,7 +306,7 @@ const lesson_nodes = [
           url: 'https://s3.amazonaws.com/pocketcoach-media-storage/photos/Episode+6+-+Passionflower+tea/giphy+(2).gif',
         },
       },
-      metadata: '{"next":YYYYYYY,"type":"end_lesson"}',
+      metadata: '{"type":"end_lesson"}',
     },
   },
 
